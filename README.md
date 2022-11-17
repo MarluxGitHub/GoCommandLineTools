@@ -1,2 +1,2 @@
 # GoCommandLineTools
-Tools from the bool Go Command Line Tools
+Tools from the book Go Command Line Tools
