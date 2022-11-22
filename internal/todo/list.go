@@ -8,10 +8,10 @@ import (
 	"time"
 )
 
-type List []item
+type List []todo
 
 func  (list *List) Add(task string) {
-	t := item{
+	t := todo{
 		Task: task,
 		Done: false,
 		CreatedAt: time.Now(),
